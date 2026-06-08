@@ -630,7 +630,7 @@ export default function Registration() {
                   
                   <div className="flex flex-col sm:flex-row gap-6 items-center relative z-10">
                     <div className="flex-shrink-0 bg-white p-3 rounded-2xl shadow-sm border border-brand-lavender-100 flex items-center justify-center">
-                      <img src="/images/qr_code.jpeg" alt="Payment QR Code" className="w-48 h-48 sm:w-56 sm:h-56 object-contain rounded-xl" />
+                      <img src="/images/qr_code1.png" alt="Payment QR Code" className="w-48 h-48 sm:w-56 sm:h-56 object-contain rounded-xl" />
                     </div>
                     
                     <div className="flex-grow w-full space-y-4">
