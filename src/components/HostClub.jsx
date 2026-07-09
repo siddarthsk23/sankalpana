@@ -6,7 +6,7 @@ const featured = [];
 
 const dignitaries = [
   {
-    name: 'DRRN Rtr. Rtn. Ketan Shinde',
+    name: 'DRRE Rtn. Rtr. Ketan Shinde',
     designation: 'ZRR - Belgaum Zone',
     org: '',
     initials: 'KS',
