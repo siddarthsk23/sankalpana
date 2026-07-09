@@ -3,7 +3,7 @@ import { useRef } from 'react';
 
 const contacts = [
   {
-    name: 'Rtr. Mahesh Shinde',
+    name: 'Rtn. Rtr. Mahesh Shinde',
     phone: '+91 78995 14868',
     href: 'tel:+917899514868',
   },

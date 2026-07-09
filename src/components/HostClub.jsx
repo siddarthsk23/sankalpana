@@ -41,7 +41,7 @@ const dignitaries = [
     image: '/images/moris_nobg.png',
   },
   {
-    name: 'Rtr. Mahesh Shinde',
+    name: 'Rtn. Rtr. Mahesh Shinde',
     designation: 'Event Chairman',
     org: 'Rotaract Club of Belgaum South',
     initials: 'MS',
