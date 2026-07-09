@@ -348,7 +348,7 @@ export default function Timeline() {
               </div>
             </div>
 
-            {events.slice(0, 4).map((event, index) => (
+            {events.slice(0, 3).map((event, index) => (
               <TimelineCard key={`d1-${index}`} event={event} index={index} />
             ))}
 
@@ -361,8 +361,8 @@ export default function Timeline() {
               </div>
             </div>
 
-            {events.slice(4).map((event, index) => (
-              <TimelineCard key={`d2-${index}`} event={event} index={index + 4} />
+            {events.slice(3).map((event, index) => (
+              <TimelineCard key={`d2-${index}`} event={event} index={index + 3} />
             ))}
           </div>
 
