@@ -30,7 +30,7 @@ const dignitaries = [
     image: '/images/nester_nobg.png',
   },
   {
-    name: 'PDRR Nikhil Chindak',
+    name: 'PDRR Rtn. Rtr. Nikhil Chindak',
     designation: 'District Counsellor',
     org: '',
     initials: 'NC',
